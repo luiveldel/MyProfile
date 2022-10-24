@@ -1,0 +1,313 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis Andres",
+      "surnames": "Velazquez Delgado",
+      "description": "Ingeniero de proyectos. Más de 4 años de  experiencia en gestión de proyectos para grandes multinacionales. Siempre he trabajado analizando datos, extrayendo csv de las bases de datos de la empresa, manipulando esos datos y presentarlos. Básicamente el trabajo de un Data Analyst. Con experiencia trabajando en el extranjero (UK y Brasil). Desde hace más de 2 años estoy estudiando por mi cuenta Data Science y conseguí certificarme con proyectos de casos reales.",
+      "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Huelva"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/luiveldel/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/LuisAndresVD"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/luisandres/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sixphere Technologies",
+          "image": {
+            "alt": "sixphere-technologies-logo-portfolio-page.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/db8fe7d7-711f-4603-bc38-a84a379aeb05_sixphere-technologie.jpg"
+          },
+          "URL": "https://sixphere.com/"
+        },
+        "roles": [
+          {
+            "name": "IT Consultant",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "- Business development along with the CTO and COO.\n- Customer segmentation and leads management. I made an important client in my first months.\n- Data automatization in Python for leads management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MI-GSO | PCUBED",
+          "image": {
+            "alt": "favicon-mgp-512.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/d99e2456-49c6-45e3-b699-80456d6ee015_favicon-mgp-512.jpg"
+          },
+          "URL": "https://www.migso-pcubed.com/es/#home"
+        },
+        "roles": [
+          {
+            "name": "PMO A400M Flight Test",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "- Risk Assessment, Flight Test Request, Aircraft Limitations planning and management.\n- Data analysis in Python for aircraft capabilities trials insights."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ALTEN UK",
+          "image": {
+            "alt": "ALTEN-Logo.wine.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/dee289fe-c29d-435d-946a-071e5e0fdfa4_alten-logo.png"
+          },
+          "URL": "https://www.alten.co.uk/"
+        },
+        "roles": [
+          {
+            "name": "Configuration Management Engineer",
+            "startDate": "2020-02-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "- Change Management board member, responsible for approving any HW/SW train change.\n- Target Configuration Reference document (technical state of the train) creation and management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AERTEC Solutions",
+          "image": {
+            "alt": "channels4_profile.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/c9369afb-a346-4c62-92dd-19c672bcde53_channels4_profile.jpg"
+          },
+          "URL": "https://aertecsolutions.com/"
+        },
+        "roles": [
+          {
+            "name": "Production Control Engineer",
+            "startDate": "2019-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "- Material management for the Airbus A400M. Logistic support to the Aircraft Manager."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Airbus Defense and Space",
+          "image": {
+            "alt": "AIR.PA-9f3a3975.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/7150c524-fe33-45c2-8087-7d0cbfb6f653_air.png"
+          },
+          "URL": "https://www.airbus.com/"
+        },
+        "roles": [
+          {
+            "name": "Logistics Operations Support",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "- Data analysis: KPI development to monitor maintenance and repair aircraft activity.\n- Supply chain performance monitoring. Problem-solving of blocking points.\n- Development of a datamining algorithm (TAT expected). Automatization of daily report in VBA."
+              }
+            ],
+            "competences": [
+              {
+                "name": "VBA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "API Idealista Automatization bot for House Deals",
+          "description": "- Dump houses from API.\n- Store in a database.\n- Send automatic messages with the current deals."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Professional Data Scientist",
+        "startDate": "2022-09-01",
+        "finishDate": "2024-09-01",
+        "institution": {
+          "name": "DataCamp",
+          "description": "Data Scientist with Python certificate by DataCamp",
+          "URL": "https://www.datacamp.com/certificate/DS0018352402019",
+          "image": {
+            "alt": "Profile_Picture__3_.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/4a013658-667b-427d-9fa7-28c0d7e78cfb_profile_picture__3_.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master in Decision Making and Innovation, Business Administration and Management",
+        "startDate": "2018-01-01",
+        "finishDate": "2019-01-01",
+        "institution": {
+          "name": "Universidad de Alcala",
+          "URL": "https://www.uah.es/es/"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Chemical Engineer",
+        "startDate": "2010-09-01",
+        "finishDate": "2017-09-01",
+        "institution": {
+          "name": "Universidad de Sevilla",
+          "URL": "https://www.us.es/"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/luisandres/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Data Scientist"
+      ]
+    }
+  }
+}
