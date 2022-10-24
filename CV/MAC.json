@@ -308,6 +308,24 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Sklearn",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Analysis & BI",
         "Data Engineer",
